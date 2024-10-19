@@ -1,0 +1,2 @@
+# teraaform
+createc vpc
